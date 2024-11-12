@@ -1,0 +1,8 @@
+{
+  "$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json",
+  "version": "0.2",
+  "dictionaries": ["dev"],
+  "dictionaryDefinitions": [
+    { "name": "dev", "path": "cspell/dev.txt", "noSuggest": true }
+  ]
+}
